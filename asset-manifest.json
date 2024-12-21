@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Task-Schedulereact/static/css/main.cc00b2ee.css",
+    "main.js": "/Task-Schedulereact/static/js/main.190ed2a0.js",
+    "index.html": "/Task-Schedulereact/index.html",
+    "main.cc00b2ee.css.map": "/Task-Schedulereact/static/css/main.cc00b2ee.css.map",
+    "main.190ed2a0.js.map": "/Task-Schedulereact/static/js/main.190ed2a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc00b2ee.css",
+    "static/js/main.190ed2a0.js"
+  ]
+}
